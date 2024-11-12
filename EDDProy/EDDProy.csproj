@@ -75,6 +75,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Estructuras No Lineales\Clases\ArbolBusqueda.cs" />
+    <Compile Include="Estructuras No Lineales\Clases\Colas.cs" />
     <Compile Include="Estructuras No Lineales\frmArboles.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -88,10 +89,10 @@
     <Compile Include="Estructuras Lineales\formpilas.Designer.cs">
       <DependentUpon>formpilas.cs</DependentUpon>
     </Compile>
-    <Compile Include="formcolas1.cs">
+    <Compile Include="Estructuras Lineales\formcolas1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="formcolas1.Designer.cs">
+    <Compile Include="Estructuras Lineales\formcolas1.Designer.cs">
       <DependentUpon>formcolas1.cs</DependentUpon>
     </Compile>
     <Compile Include="frmGrafica.cs">
